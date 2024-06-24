@@ -6,7 +6,7 @@
 #    By: erwfonta <erwfonta@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/06/23 15:33:07 by erwfonta          #+#    #+#              #
-#    Updated: 2024/06/23 15:39:55 by erwfonta         ###   ########.fr        #
+#    Updated: 2024/06/24 13:45:49 by erwfonta         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,7 +14,7 @@
 TARGET = push_swap
 
 # Source files for push_swap
-SRCS_PUSH_SWAP = 
+SRCS_PUSH_SWAP = push_swap.c /
 
 # Object files for push_swap
 OBJS_PUSH_SWAP = $(SRCS_PUSH_SWAP:.c=.o)
